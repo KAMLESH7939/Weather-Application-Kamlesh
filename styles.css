@@ -253,6 +253,10 @@ h1 {
     .parameter {
         width: 100%;
     }
+    body{
+         background-image: url("kaml1.png");
+         object-fit: cover;
+    }
 }
 
 /* search weather styles */
