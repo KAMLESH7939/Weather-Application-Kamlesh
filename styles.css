@@ -251,6 +251,7 @@ h1 {
     }
 
     .parameter {
+        height:100%;
         width: 100%;
     }
     body{
